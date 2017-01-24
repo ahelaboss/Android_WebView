@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bud Kharkov</string>
+    <string name="domen">bud.kharkov.ua</string>
+    <string name="textExit">Для выхода с приложения нажмите еще раз.</string>
+</resources>
